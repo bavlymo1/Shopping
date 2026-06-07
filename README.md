@@ -1,8 +1,8 @@
-##ShoppingApp
-🛍️ ShoppingApp – Your Gateway to Smart Shopping!
+## 🛍️ ShoppingApp – Your Gateway to Smart Shopping!
 
 ShoppingApp is a simple and modern mobile shopping application that allows users to browse and explore a wide range of products with ease. Designed with clean visuals, intuitive navigation, and real-time data from an external API, the app delivers a smooth and responsive shopping experience.
-✨ Features:
+
+## ✨ Features:
 
     🔍 Explore Products Instantly
     Browse a rich collection of items with real-time updates fetched directly from a live API. Each product includes a title, price, image, description, category, and user rating.
@@ -22,7 +22,7 @@ ShoppingApp is a simple and modern mobile shopping application that allows users
     🖼️ Beautiful Splash Screen
     Starts with a custom splash screen to showcase the app’s branding and set the tone for a premium experience.
 
-Ideal For:
+## Ideal For:
 
     Casual users wanting to explore new products
 
